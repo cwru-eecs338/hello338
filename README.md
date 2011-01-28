@@ -24,6 +24,6 @@ What to do with the files:
 3. Run the executable using <code>./hello338</code>
 
 4. Explore how the Makefile works:
-   - <code>make clean</code> -- removes non-source file(s)
-   - <code>make dep</code> -- just prints a message
-   - <code>make test</code> -- prints a message, but has a dependency
+   - <code>make clean</code> &mdash; removes non-source file(s)
+   - <code>make dep</code> &mdash; just prints a message
+   - <code>make test</code> &mdash; prints a message, but has a dependency
