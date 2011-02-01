@@ -4,9 +4,9 @@ Hello 338!
 How to get the files:
 ---------------------
 
-If git is installed, you can just use:
+On the lab computer, you can use:
 <pre><code>
-git clone git@github.com:cwru-eecs338/hello338.git
+git clone git://github.com/cwru-eecs338/hello338.git
 </code></pre>
 
 Otherwise, you can download and extract the tarball using:
